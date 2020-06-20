@@ -7,12 +7,15 @@ organizations:
 superuser: true
 authors:
   - admin
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include online word-of-mouth, online social
+  interaction, deep learning, natural language processing and social network
+  analysis.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - online word-of-mouth
+  - online social interaction
+  - deep learning
+  - natural language processing
+  - social network analysis
 social:
   - icon: envelope
     icon_pack: fas
@@ -28,19 +31,17 @@ social:
     link: https://github.com/gcushen
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Information Systems
+      institution: The Chinese University of Hong Kong
+      year: 2021
+    - course: BSc in Information Management and Information Systems
+      institution: Huazhong University of Science and Technology
+      year: 2016
 email: ""
 user_groups:
   - Researchers
   - Visitors
 ---
+LIU Chang is a PhD candidate of information systems in the Business School of the Chinese University of Hong Kong.
 
 Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
