@@ -1,7 +1,7 @@
 ---
 title: LIU Chang
 role: PhD candidate of Information Systems
-avatar_filename: pacis_2018.jpg
+avatar_filename: avatar.jpg
 organizations:
   - name: Stanford University
     url: ""
