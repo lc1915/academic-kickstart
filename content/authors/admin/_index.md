@@ -42,6 +42,6 @@ user_groups:
   - Researchers
   - Visitors
 ---
-LIU Chang is a PhD candidate of information systems in the Business School of the Chinese University of Hong Kong.
+LIU Chang is a PhD candidate of Information Systems in the Department of Decision Sciences and Managerial Economics at the CUHK Business School, The Chinese University of Hong Kong. Her research draws from disciplines of machine learning, economics and psychology to shed light on social interaction behaviors in online platforms.
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+She has gained plentiful teaching assistant experience in both theoretical and practical courses, including big data management & analytics, business information systems, and. Her technological background enables 
