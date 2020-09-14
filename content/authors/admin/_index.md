@@ -20,15 +20,12 @@ social:
   - icon: envelope
     icon_pack: fas
     link: "#contact"
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com.hk/citations?user=V2ZQNG0AAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/lc1915
 education:
   courses:
     - course: PhD in Information Systems
@@ -44,4 +41,4 @@ user_groups:
 ---
 LIU Chang is a PhD candidate of Information Systems in the Department of Decision Sciences and Managerial Economics at the CUHK Business School, The Chinese University of Hong Kong. Her research draws from disciplines of machine learning, economics and psychology to shed light on social interaction behaviors in online platforms.
 
-She has gained plentiful teaching assistant experience in both theoretical and practical courses, including big data management & analytics, business information systems, and. Her technological background enables 
+She has gained plentiful teaching assistant experience in both theoretical and practical courses, including big data management & analytics, business information systems, and network security. Her technological background enables she to quickly solve students' questions and provide useful guidance. 
