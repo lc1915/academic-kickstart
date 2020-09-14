@@ -13,8 +13,8 @@ bio: My research interests include online word-of-mouth, online social
 interests:
   - Online word-of-mouth
   - Online social interaction
-  - Deep learning
-  - Natural language processing
+  - Deep learning in IS
+  - Natural Language Processing
   - Social network analysis
 social:
   - icon: envelope
