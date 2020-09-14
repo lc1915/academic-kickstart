@@ -1,7 +1,7 @@
 ---
 title: LIU Chang
 role: PhD candidate in Information Systems
-avatar_filename: avatar_new.jpg
+avatar_filename: avatar.jpg
 organizations:
   - name: The Chinese University of Hong Kong
 superuser: true
